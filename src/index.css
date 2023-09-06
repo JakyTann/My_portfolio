@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+li {
+    @apply px-4;
+    @apply cursor-pointer
+}
+
+body {
+    @apply bg-[#26252Aff];
+}
